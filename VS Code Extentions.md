@@ -16,3 +16,4 @@ VS Code Extentions
 - [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 - [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
 - [GitLens -- Git Supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+- [JSON Parse & Stringify](https://marketplace.visualstudio.com/items?itemName=nextfaze.json-parse-stringify)
