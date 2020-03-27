@@ -1,0 +1,38 @@
+{
+    "atomKeymap.promptV3Features": true,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.formatOnPaste": true,
+    "editor.minimap.enabled": false,
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Cobalt2",
+    "window.zoomLevel": 1,
+    "editor.fontFamily": "'Fira Code iScript', 'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
+    "editor.fontLigatures": true,
+    "eslint.validate": [
+        "javascript",
+        "javascriptreact",
+        "typescript",
+        "typescriptreact"
+    ],
+    "turboConsoleLog.quote": "'",
+    "turboConsoleLog.wrapLogMessage": true,
+    "turboConsoleLog.addSemicolonInTheEnd": true,
+    "javascript.suggest.completeFunctionCalls": true,
+    "typescript.suggest.completeFunctionCalls": true,
+    "workbench.activityBar.visible": true,
+    "eslint.alwaysShowStatus": true,
+    "prettier.disableLanguages": [
+        "vue",
+        "javascript",
+        "javascriptreact",
+        "typescript",
+        "typescriptreact"
+    ],
+    "diffEditor.ignoreTrimWhitespace": true,
+    "git.confirmSync": false,
+    "zenMode.hideTabs": false,
+    "zenMode.hideLineNumbers": false,
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+}

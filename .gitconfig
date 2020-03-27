@@ -1,0 +1,5 @@
+[user]
+	name = Joshua-Rose
+	email = joshua.rose1@outlook.com
+[credential]
+	helper = cache --timeout=28800
